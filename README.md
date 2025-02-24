@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/b0a4d30f8d5be5c42d7bc2c6a3bad82dc5ad1a537ab60d7463d3b9e05541d986/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966" alt="banners">
+<img src="https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" alt="banners">
 <h1 align="center">Hi 👋, I'm Prem Kalagate</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 

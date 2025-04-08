@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **premkalagatee@gmail.com**
+- 📫 How to reach me **premkalagate52@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/premkalagate](https://github.com/premkalagate)
 
